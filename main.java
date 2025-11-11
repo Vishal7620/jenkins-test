@@ -7,5 +7,7 @@ public class main{
         System.out.println("Hello from Java");
         System.out.println("Current date :"+new Date());
         System.out.println("Some Changes done !");
+        student std=new student();
+        std.getStudent();
     }
 }
